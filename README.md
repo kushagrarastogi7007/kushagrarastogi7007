@@ -5,9 +5,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <br>
-- 👀 I’m interested in Full Stack Development | AI & ML
+- 👀 I’m interested in Full Stack Development | AI & ML <br>
 <!--- 🌱 I’m currently learning Backend Development --->
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... <br>
 - 📫 How to reach me ...https://www.linkedin.com/in/kushagra-rastogi-0080411a2/
 <br>
 
