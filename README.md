@@ -41,7 +41,7 @@
 - 🥅 Hosting:
   
     ![GitHub Pages](https://img.shields.io/badge/github_pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Vercel](https://img.shields.io/badge/vercel-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/vercel-%23181717.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </p>
 
